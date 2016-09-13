@@ -52,7 +52,7 @@ Use the `push` variable declared in step 2.
 You could do this in a ton of different ways depending on your backend. Me myself I use Laravel, and use a great Composer package by Davi Nunes to make sending push notifications easier: https://github.com/davibennun/laravel-push-notification
 
 ##6. Did it work?
-Did you get it up and running? Congrats!
+Did you get it up and running? Congrats 🎉🎉
 
 Do you have issues getting it working on Android? Make sure GCM is correctly configured.
 Do you have issues getting it working on iOS? Make sure you build the app with the right provisioning profile (enabled for push notifications of course), and that you push with the right APNS certificate.
