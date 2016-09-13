@@ -7,6 +7,7 @@ If you want to add or change any information here, you're more than welcome to c
 
 ##1. Install required plugins
 Install the Cordova push plugin to enable access to the push API from Cordova. The value of `SENDER_ID` maps to the project number in the Google Developer Console.
+
     cordova plugin add phonegap-plugin-push --variable SENDER_ID="XXXXXXX"
 
 ##2. Register for push notifications
